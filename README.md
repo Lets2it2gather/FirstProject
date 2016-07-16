@@ -1,5 +1,8 @@
 # FirstProject
 
+SPRING INITIALIZR bootstrap your application now - http://start.spring.io
+Note : this will be useful to generate the pom.xml/gradle for our project
+
 Downloads
 
 1. tortoisegit - https://tortoisegit.org/download/
