@@ -10,4 +10,5 @@ Downloads
 4. Setup maven and Java8 in local
 5. Tomcat8
 6. Mongodb (No SQL)
-7. SPRING INITIALIZR bootstrap your application now - http://start.spring.ioNote : this will be useful to generate the pom.xml/gradle for our project
+7. SPRING INITIALIZR (this will be useful to generate the pom.xml/gradle for our project) - http://start.spring.io
+
